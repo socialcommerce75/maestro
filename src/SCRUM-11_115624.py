@@ -1,0 +1,1 @@
+# Fix for SCRUM-11
