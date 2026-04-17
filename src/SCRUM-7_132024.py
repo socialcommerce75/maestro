@@ -1,0 +1,1 @@
+# Auto-fix for SCRUM-7
